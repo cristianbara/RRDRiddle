@@ -22,7 +22,7 @@ var codes = [
     {
         value: '5837',
         hint: 'Haal iedereen weg die een hoedje/petje/muts op heeft',
-        image: 'assets/pic1.jpg'
+        image: 'assets/pic7.jpg'
       }
     /*,
            {
