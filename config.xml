@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="io.cristianbara.github.favyourself" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="io.cristianbara.github.RRDOuting" version="1.0.0">
   <name>RRD Outing</name>
   <description>Riddle me this. Riddle me that. Find the key to get out.</description>
   <author href="http://cristianbara.github.io" email="cristian.dan.bara@gmail.com">CB web dev.</author>
